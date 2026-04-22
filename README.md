@@ -1,5 +1,7 @@
 # Enshrouded 日本語攻略まとめ
 
+![Enshrouded](https://cdn.akamai.steamstatic.com/steam/apps/1203620/capsule_616x353.jpg)
+
 > 本サイトは海外コミュニティ（Steam / Reddit / 公式Wiki等）の攻略情報を日本語でまとめたものです。情報源は各ページ下部および「情報源一覧」ページを参照してください。
 
 ---

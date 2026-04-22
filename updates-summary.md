@@ -2,6 +2,8 @@
 
 > 📌 情報源: [Hack the Minotaur](https://hacktheminotaur.com/enshrouded/enshrouded-forging-the-path-update-8-full-patch-notes/) / [Bisect Hosting](https://www.bisecthosting.com/blog/enshrouded-update-8-patch-notes-forging-the-path-new-skills-attacks-features) / [公式発表](https://enshrouded.com/en-US/news/enshrouded-forging-the-path-is-live)
 
+![Forging the Path](https://cdn.akamai.steamstatic.com/steam/apps/1203620/library_hero.jpg)
+
 2026-04-21にリリースされた、**1.0正式リリース（Fall 2026）前の最後の大型アップデート**。戦闘システムが根本的にリワークされ、新バイオーム・新機能が大量に追加されました。
 
 ## スキルツリーの大幅リワーク
