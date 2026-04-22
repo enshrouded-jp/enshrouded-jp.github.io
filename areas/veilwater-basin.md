@@ -5,6 +5,8 @@
 
 熱帯ジャングル・古代遺跡・淡水湖が広がる新バイオーム。新勢力「Drak」が主要な敵として登場します。
 
+![Veilwater Basin 水中探索](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/50ce17d5a264d10c9e4f65a3cbf3fba9d07bf8d6/ss_50ce17d5a264d10c9e4f65a3cbf3fba9d07bf8d6.1920x1080.jpg?t=1776758849)
+
 ## 基本情報
 
 | 項目 | 内容 |

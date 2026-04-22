@@ -4,6 +4,8 @@
 
 密林地帯のバイオーム。Blackmire（ブラックマイア）沼地を含む。
 
+![Revelwood](https://enshrouded.wiki.gg/wiki/Special:Redirect/file/Revelwood.png)
+
 ## 基本情報
 
 | 項目 | 内容 |

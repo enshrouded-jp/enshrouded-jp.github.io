@@ -4,6 +4,8 @@
 
 石灰岩地形と2つの巨大火山が特徴の高原バイオーム。
 
+![Nomad Highlands](https://enshrouded.wiki.gg/wiki/Special:Redirect/file/Nomad_Highlands.png)
+
 ## 基本情報
 
 | 項目 | 内容 |

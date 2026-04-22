@@ -4,6 +4,8 @@
 
 高地の寒冷バイオーム。最も厳しい環境で、強力な敵が多数生息します。
 
+![Albaneve Summits ボス戦](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/01ab6c97b4c33591719222c28bb74083e722f064/ss_01ab6c97b4c33591719222c28bb74083e722f064.1920x1080.jpg?t=1776758849)
+
 ## 基本情報
 
 | 項目 | 内容 |

@@ -15,6 +15,8 @@ Enshroudedには固定のクラス制は存在しません。3本のスキルツ
 | Shroud Root 撃破 | 1ポイント |
 | Elixir Well 完了 | 3ポイント |
 
+![スキルツリー](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/bf2185e463c214c4bc921fa59077cd06e229e75e/ss_bf2185e463c214c4bc921fa59077cd06e229e75e.1920x1080.jpg?t=1776758849)
+
 ## 3本のスキルツリー
 
 ### Warrior Tree（近接系）

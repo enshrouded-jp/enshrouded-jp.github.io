@@ -4,6 +4,8 @@
 
 砂漠系バイオーム。砂岩台地とサボテンが広がる乾燥地帯。
 
+![Kindlewastes](https://enshrouded.wiki.gg/wiki/Special:Redirect/file/Kindlewastes.png)
+
 ## 基本情報
 
 | 項目 | 内容 |

@@ -4,6 +4,8 @@
 
 ゲームの開始バイオーム。草原と森林が広がる比較的穏やかなエリアで、Update 8にてグラフィックと地形多様性が大幅改善されました。
 
+![Springlands](https://enshrouded.wiki.gg/wiki/Special:Redirect/file/Springlands.png)
+
 ## 基本情報
 
 | 項目 | 内容 |

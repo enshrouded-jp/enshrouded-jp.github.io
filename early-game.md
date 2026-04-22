@@ -69,6 +69,8 @@ Flame Altarをレベルアップ → 探索範囲拡大
 
 ## 戦闘の基本（初心者向け）
 
+![序盤プレイ（Springlands）](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/85d9a4cc0e65ab61e93becb67f5cf5748e8a6307/ss_85d9a4cc0e65ab61e93becb67f5cf5748e8a6307.1920x1080.jpg?t=1776758849)
+
 ### 序盤は杖（Wand）が最強
 
 杖は**耐久だけ消費**し弾薬不要のため、実質無制限で使えます（Workbenchで修理可能）。近接が怖い序盤は杖での遠距離攻撃が最も安定します。Update 8で杖の爆発範囲・射程が強化されており、さらに使いやすくなっています。
