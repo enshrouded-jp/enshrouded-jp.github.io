@@ -1,15 +1,12 @@
 // Google Analytics 4
-// TODO: GA4プロパティ作成後、G-XXXXXXXXXXを実際の測定IDに置き換える
 (function() {
-  var GA_ID = 'G-XXXXXXXXXX';
-  if (GA_ID === 'G-XXXXXXXXXX') return; // IDが設定されるまで無効化
   var script = document.createElement('script');
   script.async = true;
-  script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+  script.src = 'https://www.googletagmanager.com/gtag/js?id=G-TT0VJGD2Z5';
   document.head.appendChild(script);
 
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', GA_ID);
+  gtag('config', 'G-TT0VJGD2Z5');
 })();
