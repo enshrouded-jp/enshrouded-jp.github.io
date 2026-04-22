@@ -1,30 +1,123 @@
-# Update #3〜#8 差分まとめ
+# Update 8「Forging the Path」熟練者向けガイド
 
-> 📌 既存の日本語wiki（jpngamerswiki.com、wikiwiki.jp/nekiki/）はUpdate #2（2024-06）で更新停止しているため、本ページではUpdate 3以降の主要追加要素をまとめます。
-> 📌 情報源: [Steam News](https://store.steampowered.com/news/app/1203620) / [Hack the Minotaur](https://hacktheminotaur.com/enshrouded/)
+> 📌 対象: 以前プレイしていてUpdate 8で復帰した方、または大型アップデート後の環境変化を把握したい方
+> 📌 情報源: [Hack the Minotaur](https://hacktheminotaur.com/enshrouded/enshrouded-forging-the-path-update-8-full-patch-notes/) / [Bisect Hosting](https://www.bisecthosting.com/blog/enshrouded-update-8-patch-notes-forging-the-path-new-skills-attacks-features) / [公式発表](https://enshrouded.com/en-US/news/enshrouded-forging-the-path-is-live)
 
-## Update 8「Forging the Path」（2026-04-21）★最新・1.0前最後
+## まず確認すること（復帰プレイヤー向け）
 
-→ 詳細は [パッチノート](patch-notes.md) 参照
+### スキルポイントが全返還されている
 
-**主要追加要素:**
-- 新バイオーム **Veilwater Basin**（熱帯ジャングル・新勢力Drak）
-- レベル上限 **Lv45**
-- **戦闘リワーク**: Focusバー・武器別Special Ability・Heavy Attack全武器対応
-- **Adventure Sharing**: ワールドの共有・ダウンロード
-- **装備アップグレード（ルーン）**: 防具・盾・指輪・ツール対応
-- スキルツリー大幅リワーク（既存キャラのポイント全返還）
+Update 8ではスキルツリーが**大幅リワーク**されました。既存セーブデータをロードすると**使用済みスキルポイントが全額返還**されています。ログイン直後に振り直しが必要です。
 
-## Update 7: 情報収集中
-
-## Update 6: 情報収集中
-
-## Update 5: 情報収集中
-
-## Update 4: 情報収集中
-
-## Update 3: 情報収集中
+**振り直しの方針:**
+- Update 8から戦闘の軸が「Focusバー＋Special Ability」に変わったため、**メインウェポンのSpecial Abilityを最優先でアンロック**することを推奨
+- Double Jumpがツリー中央に移動しアクセスしやすくなったため、取得しやすくなっています
 
 ---
 
-Update 3〜7の詳細は [Steam News](https://store.steampowered.com/news/app/1203620) で各パッチノートを確認できます。順次翻訳・追記予定です。
+## Update 8の新戦闘システム詳解
+
+### Focusバーと Special Ability
+
+HUDのアクションバー付近に新しい**Focusバー**が表示されます。
+
+| 操作 | 効果 |
+|------|------|
+| 通常攻撃（連続） | Focusが蓄積 |
+| Heavy Attack | Focusが蓄積（通常より速く溜まる） |
+| Focusバー満タン | **Special Ability**が使用可能になる |
+
+**注意**: Special Abilityは**スキルで武器種ごとにアンロック**する必要があります。
+
+**武器種別 Special Ability:**
+
+| 武器種 | Special Ability |
+|-------|---------------|
+| 杖（Wand） | 大型AOE（広範囲魔法弾） |
+| 両手武器（2H） | 360度範囲薙ぎ払い |
+| 短剣（Dagger） | 単体への超高ダメージバースト |
+| スタッフ（Staff） | 現時点では未実装（今後追加予定） |
+| その他武器種 | 情報収集中 |
+
+### Heavy Attack（全近接武器対応）
+
+攻撃ボタンを**長押し**することで発動。
+
+- ダメージ: 通常攻撃の**2倍**
+- スタンバーへの影響: **2倍**
+- **Heavy Attack中は敵に中断されない**（アーマーフレームあり）
+
+敵のスタンバーが満タンになると大きく怯むため、Heavy AttackをFocusバー蓄積と組み合わせると効率的です。
+
+### 改善された敵AI
+
+敵が「**調査フェーズ**」を持つようになりました。物音や気配を感知した敵は調査しながら近づいてきますが、**実際に視認するまで戦闘を開始しません**。うまく隠れれば戦闘を回避できます。ステルスアサシンビルドが以前より強力になっています。
+
+---
+
+## 装備アップグレード（ルーン）システム
+
+### アップグレードできる装備種
+
+| 装備種 | 担当NPC |
+|-------|-------|
+| 防具（Armor） | Blacksmith |
+| 盾（Shield） | Blacksmith |
+| ワード（Ward） | Alchemist |
+| 指輪（Ring） | Hunter |
+| ピッケル（Pickaxe） | Hunter |
+| 木こり斧（Wood Chopping Axe） | Hunter |
+
+### 仕組み
+
+装備の**品質ランク（レアリティ）がアップグレード段階数を決定**します。高品質な装備ほど多くのアップグレードが可能です。ルーンを消費して各段階の強化を行います。
+
+---
+
+## Adventure Sharing（アドベンチャー共有）
+
+### 基本的な使い方
+
+1. メインメニューから「**Adventure Sharing**」を選択
+2. 自分のワールドをサーバーにアップロード
+3. 他のプレイヤーはコミュニティのワールドを**読み取り専用**でダウンロード・訪問可能
+
+### 活用シーン
+
+- 自分が建てた建築物をコミュニティに公開
+- 他プレイヤーが作ったアドベンチャー（ダンジョン・パズル等）を体験
+- ゲーム内カメラアイテムで撮影したスクリーンショット付きで共有可能
+- Flame Altarでスポーン地点を設定して、訪問者の体験をデザインできる
+
+---
+
+## 新バイオーム: Veilwater Basin
+
+熱帯ジャングル・古代遺跡・淡水湖からなる最高レベル帯（〜Lv45）のエリア。
+
+| 情報 | 内容 |
+|------|------|
+| 推奨レベル | Lv40〜45 |
+| 主要敵 | **Drak**勢力（新追加の爬虫類系敵） |
+| 主要素材 | コーヒー豆・アクアマリン・金鉱石・熱帯木材 |
+| 特徴 | 水・液体ギミックを活かした探索・戦闘 |
+
+詳細は [Veilwater Basin](areas/veilwater-basin.md) 参照。
+
+---
+
+## Quick Stack Station と マジ・チェスト
+
+どちらも**拠点管理の大幅な効率化**が目的の新機能です。
+
+- **Quick Stack Station**: インタラクトするだけで近隣チェストに素材を自動振り分け
+- **マジ・チェスト**: 建築モード中に近くのチェストの中身を直接参照・使用できる
+
+素材管理に時間をかけていた熟練者ほど恩恵を感じられます。
+
+---
+
+## Update 3〜7の差分
+
+過去Updateの詳細は [パッチノート](patch-notes.md) 参照。Steam News でも確認できます:  
+→ https://store.steampowered.com/news/app/1203620

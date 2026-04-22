@@ -60,7 +60,7 @@
 - [ボス・ダンジョン概要](bosses-dungeons/index.html) — [Towers](bosses-dungeons/towers.md) / [Ancient Spires](bosses-dungeons/ancient-spires.md) / [Legendary Bosses](bosses-dungeons/legendary-bosses.md)
 
 ### Update履歴
-- [Update #3〜#8 差分まとめ](updates-summary.md)
+- [Update 8 熟練者向けガイド](updates-summary.md)
 - [パッチノート](patch-notes.md)
 
 ### データバンク
