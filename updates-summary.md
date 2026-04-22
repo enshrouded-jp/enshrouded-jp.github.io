@@ -1,21 +1,19 @@
-# Update 8「Forging the Path」熟練者向けガイド
+# Update 8: Forging the Path
 
-> 📌 対象: 以前プレイしていてUpdate 8で復帰した方、または大型アップデート後の環境変化を把握したい方
 > 📌 情報源: [Hack the Minotaur](https://hacktheminotaur.com/enshrouded/enshrouded-forging-the-path-update-8-full-patch-notes/) / [Bisect Hosting](https://www.bisecthosting.com/blog/enshrouded-update-8-patch-notes-forging-the-path-new-skills-attacks-features) / [公式発表](https://enshrouded.com/en-US/news/enshrouded-forging-the-path-is-live)
 
-## まず確認すること（復帰プレイヤー向け）
+2026-04-21にリリースされた、**1.0正式リリース（Fall 2026）前の最後の大型アップデート**。戦闘システムが根本的にリワークされ、新バイオーム・新機能が大量に追加されました。
 
-### スキルポイントが全返還されている
+## スキルツリーの大幅リワーク
 
-Update 8ではスキルツリーが**大幅リワーク**されました。既存セーブデータをロードすると**使用済みスキルポイントが全額返還**されています。ログイン直後に振り直しが必要です。
+Update 8ではスキルツリーが全面的にリワークされました。既存セーブデータをロードすると**使用済みスキルポイントが全額返還**されます。
 
-**振り直しの方針:**
-- Update 8から戦闘の軸が「Focusバー＋Special Ability」に変わったため、**メインウェポンのSpecial Abilityを最優先でアンロック**することを推奨
-- Double Jumpがツリー中央に移動しアクセスしやすくなったため、取得しやすくなっています
+- Update 8から戦闘の軸が「Focusバー＋Special Ability」に変わったため、**メインウェポンのSpecial Abilityを優先してアンロック**すると新システムの恩恵を受けやすい
+- Double Jumpがツリー中央に移動し、アクセスしやすくなった
 
 ---
 
-## Update 8の新戦闘システム詳解
+## 新戦闘システム詳解
 
 ### Focusバーと Special Ability
 

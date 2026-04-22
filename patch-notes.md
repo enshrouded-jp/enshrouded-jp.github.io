@@ -2,7 +2,7 @@
 
 > 📌 情報源: [Steam News](https://store.steampowered.com/news/app/1203620) / [公式ニュース](https://enshrouded.com/en-US/news) / [Hack the Minotaur](https://hacktheminotaur.com/enshrouded/enshrouded-forging-the-path-update-8-full-patch-notes/)
 
-## Update 8「Forging the Path」（2026-04-21）
+## Update 8: Forging the Path（2026-04-21）
 
 **1.0前の最後の大型アップデート。**
 

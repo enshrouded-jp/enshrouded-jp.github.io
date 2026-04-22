@@ -12,7 +12,7 @@
 - プラットフォーム: PC (Steam)、今後PS5/Xbox対応予定（Fall 2026）
 - Early Access開始: 2024年1月
 - 正式リリース（1.0）予定: Fall 2026（コンソール展開と同時）
-- 最新アップデート: Update 8「Forging the Path」（2026-04-21）
+- 最新アップデート: Update 8: Forging the Path（2026-04-21）
 - マルチプレイ: オンラインCo-op（最大16人）
 
 ---
@@ -60,7 +60,7 @@
 - [ボス・ダンジョン概要](bosses-dungeons/index.html) — [Towers](bosses-dungeons/towers.md) / [Ancient Spires](bosses-dungeons/ancient-spires.md) / [Legendary Bosses](bosses-dungeons/legendary-bosses.md)
 
 ### Update履歴
-- [Update 8 熟練者向けガイド](updates-summary.md)
+- [Update 8: Forging the Path](updates-summary.md)
 - [パッチノート](patch-notes.md)
 
 ### データバンク

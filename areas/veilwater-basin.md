@@ -1,6 +1,6 @@
 # Veilwater Basin（ヴェイルウォーター・ベイスン）
 
-> 📌 Update 8「Forging the Path」（2026-04-21）で追加された最新バイオーム。
+> 📌 Update 8: Forging the Path（2026-04-21）で追加された最新バイオーム。
 > 📌 情報源: [Enshrouded Wiki](https://enshrouded.wiki.gg/wiki/Biomes) / [Hack the Minotaur](https://hacktheminotaur.com/enshrouded/enshrouded-update-8-forging-the-path/)
 
 熱帯ジャングル・古代遺跡・淡水湖が広がる新バイオーム。新勢力「Drak」が主要な敵として登場します。
@@ -9,7 +9,7 @@
 
 | 項目 | 内容 |
 |------|------|
-| 追加時期 | Update 8「Forging the Path」（2026-04-21） |
+| 追加時期 | Update 8: Forging the Path（2026-04-21） |
 | 難易度 | ★★★★★（Lv40〜45対応） |
 | 主要敵勢力 | Drak（ドラク）勢力 |
 | 主要採集素材 | 熱帯木材（Tropical Wood）、コーヒー豆（Coffee Beans）、アクアマリン（Aquamarine）、金鉱石（Gold Ore） |

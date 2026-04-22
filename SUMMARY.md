@@ -89,7 +89,7 @@
 
 ## Update履歴
 
-* [Update 8 熟練者向けガイド](updates-summary.md)
+* [Update 8: Forging the Path](updates-summary.md)
 * [パッチノート](patch-notes.md)
 
 ## データバンク
