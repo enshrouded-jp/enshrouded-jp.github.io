@@ -27,7 +27,7 @@
 - [用語集](glossary.md)
 
 ### マップ・エリア
-- [マップ概要](areas/index.html) — [Springlands](areas/springlands.md) / [Revelwood](areas/revelwood.md) / [Nomad Highlands](areas/nomad-highlands.md) / [Kindlewastes](areas/kindlewastes.md) / [Low Meadows](areas/low-meadows.md) / [Veilwater Basin](areas/veilwater-basin.md)
+- [マップ概要](areas/index.html) — [Springlands](areas/springlands.md) / [Revelwood](areas/revelwood.md) / [Nomad Highlands](areas/nomad-highlands.md) / [Kindlewastes](areas/kindlewastes.md) / [Albaneve Summits](areas/albaneve-summits.md) / [Veilwater Basin](areas/veilwater-basin.md)
 
 ### キャラクター・スキル
 - [クラス概要](classes/index.html) — [Warrior](classes/warrior.md) / [Battlemage](classes/battlemage.md) / [Ranger](classes/ranger.md) / [Assassin](classes/assassin.md) / [Wizard](classes/wizard.md) / [Healer](classes/healer.md) / [ビルド例](classes/builds.md)

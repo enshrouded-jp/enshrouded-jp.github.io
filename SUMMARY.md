@@ -17,7 +17,7 @@
   * [Revelwood](areas/revelwood.md)
   * [Nomad Highlands](areas/nomad-highlands.md)
   * [Kindlewastes](areas/kindlewastes.md)
-  * [Low Meadows](areas/low-meadows.md)
+  * [Albaneve Summits](areas/albaneve-summits.md)
   * [Veilwater Basin](areas/veilwater-basin.md)
 
 ## キャラクター・スキル

@@ -1,13 +1,21 @@
 # Alchemist（アルケミスト）
 
-> 📌 本ページはサイト初期構築時点のスタブです。
+> 📌 情報源: [Enshrouded Wiki - Survivors](https://enshrouded.wiki.gg/wiki/Survivors)
 
-錬金術師。ポーション・魔法素材の調合を担当する生存者NPC。
+- **本名**: Balthazar（バルタザール）
+- **救出場所**: Ancient Vault - Alchemist（主にSpringlandsに存在）
+- **役割**: 魔法系防具・ポーション・薬品の製造
 
-## 救出クエスト
+## 解放されるクラフトステーション
 
-情報収集中。
+| ステーション | 用途 |
+|------------|------|
+| 臼（Mortar） | 素材の粉砕・調合 |
+| 粉砕石（Grinding Stone） | 鉱物の粉末化 |
+| 錬金術ステーション（Alchemy Station） | ポーション・エリクサー |
+| ラボラトリ（Laboratory） | 高品質な調合 |
+| 製粉機（Flour Mill） | 食材加工 |
 
-## 解放レシピ
+## Update 8: 装備アップグレード（ルーン）
 
-情報収集中。
+Update 8以降、Alchemistはワード（Ward）をルーンでアップグレードできます。
