@@ -13,7 +13,7 @@ default-theme = "navy"
 preferred-dark-theme = "navy"
 no-section-label = false
 site-url = "/"
-# 独自ドメイン: https://enshrouded.gameguidejp.com/
+# 将来の独自ドメイン予定: https://enshrouded.gameguidejp.com/（ドメイン年齢経過後）
 additional-css = ["theme/custom.css"]
 additional-js = ["theme/analytics.js", "theme/kofi.js", "theme/pagefind.js", "theme/footer.js"]
 
