@@ -19,6 +19,9 @@
 
 ## ページ一覧
 
+### 最新アップデート
+- [Update 8: Forging the Path](updates-summary.md)
+
 ### 基本情報
 - [ゲーム概要](game-overview.md)
 - [よくある質問（FAQ）](faq.md)
@@ -60,7 +63,6 @@
 - [ボス・ダンジョン概要](bosses-dungeons/index.html) — [Towers](bosses-dungeons/towers.md) / [Ancient Spires](bosses-dungeons/ancient-spires.md) / [Legendary Bosses](bosses-dungeons/legendary-bosses.md)
 
 ### Update履歴
-- [Update 8: Forging the Path](updates-summary.md)
 - [パッチノート](patch-notes.md)
 
 ### データバンク

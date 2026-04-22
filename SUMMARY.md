@@ -2,6 +2,10 @@
 
 * [トップページ](README.md)
 
+## 最新アップデート
+
+* [Update 8: Forging the Path](updates-summary.md)
+
 ## 基本情報
 
 * [ゲーム概要](game-overview.md)
@@ -89,7 +93,6 @@
 
 ## Update履歴
 
-* [Update 8: Forging the Path](updates-summary.md)
 * [パッチノート](patch-notes.md)
 
 ## データバンク
