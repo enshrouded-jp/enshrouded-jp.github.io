@@ -1,11 +1,11 @@
 # ボス・ダンジョン概要
 
-> 📌 本ページはサイト初期構築時点のスタブです。
+> 📌 情報源: enshrouded.wiki.gg
 
-Enshroudedのエンドゲーム要素は大きく3系統。
+Enshroudedのボス・ダンジョン系コンテンツは大きく以下に分かれる。
 
-- [Towers](towers.md): 霧に覆われた塔。登頂で拠点解放や報酬を得られる（情報収集中）
-- [Ancient Spires](ancient-spires.md): 高難度遺跡塔。エンドゲーム級
-- [Legendary Bosses](legendary-bosses.md): レジェンダリー装備ドロップのユニークボス
+- [Ancient Vault / Elixir Well](towers.md): シュラウド内に点在する井戸型ダンジョン。底のシュラウド・ルートを破壊してスキルポイントとエリア解放を獲得する
+- [Ancient Spires](ancient-spires.md): 全バイオームに1基ずつ存在する塔。登頂でマップ解放とファスト・トラベル地点が解放される
+- [Bosses](legendary-bosses.md): Fell・Scavenger・Vukah・Hollow各勢力のユニークボス。フレイム・アルターのアップグレード素材をドロップする
 
-より小規模なダンジョンは各バイオームページ参照。
+より小規模な探索コンテンツ（**Hollow Halls** 等）は各バイオームページも参照。
