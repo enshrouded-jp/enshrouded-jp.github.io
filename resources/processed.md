@@ -75,8 +75,10 @@
 
 ### ハードンドレザー（Hardened Leather / 硬化皮革）
 
+- **設備**: ハンター（Hunter）のクラフトメニュー
+- **レシピ**: Leather（皮革）×1 + Wax（ワックス）×2 → Hardened Leather×1（即座）
+- **アンロック条件**: Alchemist's Wall Hanging 完成後、Alchemic Wisdom クエストを経由して解放
 - **用途**: 上位防具・装備の材料
-- **製法**: 情報収集中
 
 ---
 

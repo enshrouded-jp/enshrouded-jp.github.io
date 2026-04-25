@@ -1,6 +1,6 @@
 # Ancient Vaults（エンシェント・ヴォールト）
 
-> 📌 情報源: [enshrouded.wiki.gg/wiki/Ancient_Vault](https://enshrouded.wiki.gg/wiki/Ancient_Vault) / [enshrouded.wiki.gg/wiki/Ancient_Spire](https://enshrouded.wiki.gg/wiki/Ancient_Spire) / [enshrouded.wiki.gg/wiki/Springlands](https://enshrouded.wiki.gg/wiki/Springlands)
+> 📌 情報源: [enshrouded.wiki.gg/wiki/Ancient_Vault](https://enshrouded.wiki.gg/wiki/Ancient_Vault) / [enshrouded.wiki.gg/wiki/Ancient_Spire](https://enshrouded.wiki.gg/wiki/Ancient_Spire) / [enshrouded.wiki.gg/wiki/Springlands](https://enshrouded.wiki.gg/wiki/Springlands) / [enshrouded.wiki.gg/wiki/Revelwood](https://enshrouded.wiki.gg/wiki/Revelwood) / [enshrouded.wiki.gg/wiki/Nomad_Highlands](https://enshrouded.wiki.gg/wiki/Nomad_Highlands) / [enshrouded.wiki.gg/wiki/Kindlewastes](https://enshrouded.wiki.gg/wiki/Kindlewastes) / [enshrouded.wiki.gg/wiki/Albaneve_Summits](https://enshrouded.wiki.gg/wiki/Albaneve_Summits)
 
 ## Ancient Vault と Ancient Spire の違い
 
@@ -33,10 +33,38 @@
 | Ancient Vault - Farmer | Emily Fray（農民） |
 | Ancient Vault - Carpenter | Cade Hawthorn（大工） |
 
-### その他エリア
+### Revelwood（レベルウッド）　Lv.10〜15
 
-- Revelwood: Sunken Ancient City（詳細情報収集中）
-- Nomad Highlands / Kindlewastes / Albaneve Summits / Veilwater Basin: 情報収集中
+Revelwoodには通常のVault構造とは異なる大型複合施設が存在する。
+
+| 場所名 | 説明 |
+|--------|------|
+| Sunken Ancient City（沈没した古代都市） | Revelwoodに存在する大型POI。通常のVault形式ではなく都市全体が遺跡となっている複合施設。内部の詳細・救出NPC・Vault構成は情報収集中 |
+
+### Nomad Highlands（ノマドハイランズ）　Lv.15〜20
+
+| Vault 名 | 情報 |
+|----------|------|
+| Ancient Vault（Nomad Highlands） | 詳細情報収集中。エリア内にAncient Spireが1基存在（Ancient Obelisk「Our Eye Towards The Stars, Forever Shut」「A Breath Of Life, Fading」を開示） |
+
+### Kindlewastes（キンドルウェイスツ）　Lv.20〜30
+
+| Vault 名 | 情報 |
+|----------|------|
+| Ancient Vault（Kindlewastes） | 詳細情報収集中。Ancient Spire - Kindlewastesが1基存在（Ancient Obelisk「As The Final Tide Frees Us」「Of The Flaw In Us All」を開示） |
+
+### Albaneve Summits（アルバネヴ・サミッツ）　Lv.30〜40
+
+| Vault 名 | 情報 |
+|----------|------|
+| Ancient Vault（Albaneve Summits） | 詳細情報収集中。Ancient Spireが1基存在。凍結した山岳地帯のバイオーム |
+
+### Veilwater Basin（ヴェイルウォーター・ベイスン）　Lv.35〜45
+
+| 場所名 | 情報 |
+|--------|------|
+| Ancient Spire - Veilwater Basin | ファストトラベルポイント。登頂でAncient Obelisk「Old Wounds Reopen」「Ones We Carved Ourselves」の位置が開示される |
+| Ancient Vault（Veilwater Basin） | 詳細情報収集中 |
 
 ## Ancient Spire の役割
 

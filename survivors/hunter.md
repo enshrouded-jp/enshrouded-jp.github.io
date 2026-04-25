@@ -13,7 +13,7 @@
 | 項目 | 内容 |
 |------|------|
 | 救出場所 | Ancient Vault - Hunter |
-| エリア | 情報収集中 |
+| エリア | スプリングランズ（Springlands）― 初期バイオーム内 |
 | 救出クエスト | Hunter Becomes The Hunted |
 
 ## 解放されるクラフトステーション

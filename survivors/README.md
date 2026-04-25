@@ -6,13 +6,13 @@
 
 ## 主要職人（クラフトピープル）一覧
 
-| 英語名 | 本名 | カタカナ | 役割 | 救出クエスト |
-|--------|------|---------|------|------------|
-| [Blacksmith](blacksmith.md) | Oswald Anders | ブラックスミス | 近接系武器・防具・金属クラフト | Find The Sleeping Survivor |
-| [Alchemist](alchemist.md) | Balthazar | アルケミスト | ポーション・魔法系装備・スペル製造 | Powerful Alchemy |
-| [Carpenter](carpenter.md) | Cade Hawthorn | カーペンター | 木材系クラフト・建材・家具製作 | Find The Sleeping Survivor |
-| [Hunter](hunter.md) | Athalan Skree | ハンター | 遠距離系装備・革製品・繊維加工 | Hunter Becomes The Hunted |
-| [Farmer](farmer.md) | Emily Fray | ファーマー | 農業・食料調理・家畜飼育 | Growing Stronger Together |
+| 英語名 | 本名 | カタカナ | 役割 | 救出場所 | 救出クエスト |
+|--------|------|---------|------|---------|------------|
+| [Blacksmith](blacksmith.md) | Oswald Anders | ブラックスミス | 近接系武器・防具・金属クラフト | スプリングランズ（Springlands） | Find The Sleeping Survivor |
+| [Alchemist](alchemist.md) | Balthazar | アルケミスト | ポーション・魔法系装備・スペル製造 | スプリングランズ（Springlands） | Powerful Alchemy |
+| [Carpenter](carpenter.md) | Cade Hawthorn | カーペンター | 木材系クラフト・建材・家具製作 | スプリングランズ（Springlands） | Find The Sleeping Survivor |
+| [Hunter](hunter.md) | Athalan Skree | ハンター | 遠距離系装備・革製品・繊維加工 | スプリングランズ（Springlands） | Hunter Becomes The Hunted |
+| [Farmer](farmer.md) | Emily Fray | ファーマー | 農業・食料調理・家畜飼育 | スプリングランズ（Springlands） | Growing Stronger Together |
 
 ## アシスタント
 

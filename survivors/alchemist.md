@@ -46,7 +46,16 @@
 | クエスト名 | 内容 |
 |-----------|------|
 | Powerful Alchemy | Alchemist救出クエスト（初期） |
-| その他クエスト | 情報収集中 |
+| Alchemist Needs Shelter | 避難所とベッド付きの作業室を建築する |
+| Staffs And Spells | 杖とスペルの作成方法を教わる |
+| Carpentry Assistance | 別のAncient VaultからCarpenterを救出する |
+| An Eternal Spell | 地下墓地に眠る永遠のスペルを入手する |
+| Finding And Using A Gem Forge | 古代の宝石鍛造所を発見し、武器への宝石装着を習得する |
+| The Alchemist's Mortar | Lone Thistleの塔から失われたMortarを回収する |
+| The Alchemist's Rumors | Springlandsで起きている異常事態を調査・解決する |
+| Explore The Hollow Halls | 伝説の地下空間「The Hollow」に降下する |
+| Cat Search | 塔周辺に生息する野良猫を見つける |
+| A Cure For The Fell Curse | Fell Curseの呪いの治療法を探す |
 
 ## Update 8: 装備ルーンアップグレード
 

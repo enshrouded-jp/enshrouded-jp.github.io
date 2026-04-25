@@ -163,7 +163,7 @@ Enshroudedの食べ物は8つのカテゴリに分類され、それぞれ異な
 | ヘーゼルナッツ（Hazelnut） | 10分 | Farm Soil | Hazelnut |
 | イチゴ（Strawberry） | 25分 | Farm Soil | Strawberry |
 | ベリー（Berries） | 30分 | Farm Soil | Purple Berries |
-| ココナッツ（Coconut） | 情報収集中 | Fertilised Farm Soil | Coconut |
+| ココナッツ（Coconut） | Farm Soil: 約49時間 / Fertilised Farm Soil: 35時間 | Fertilised Farm Soil | Coconut |
 
 #### 野菜類
 
@@ -172,8 +172,8 @@ Enshroudedの食べ物は8つのカテゴリに分類され、それぞれ異な
 | トマト（Tomato） | 15分 | Tomato |
 | ビート（Beet） | 20分 | Beet |
 | ベルペッパー（Bell Pepper） | 30分 | Bell Pepper |
-| 生姜（Ginger） | 情報収集中 | Ginger |
-| タロイモ（Taro） | 情報収集中（水2L必要） | Taro |
+| 生姜（Ginger） | Farm Soil: 約49時間 / Fertilised Farm Soil: 35時間 | Ginger |
+| タロイモ（Taro） | Wiki未記載（水2L必要） | Taro |
 
 #### キノコ類
 
@@ -189,8 +189,8 @@ Enshroudedの食べ物は8つのカテゴリに分類され、それぞれ異な
 |--------|---------|---------|
 | トウモロコシ（Corn） | 30分 | — |
 | 小麦（Wheat） | 30分 | Flour（小麦粉）に加工 |
-| 米（Rice） | 情報収集中 | 水2L・Covered Ground必要 |
-| 亜麻（Flax） | 情報収集中 | Seedling×10個生産 |
+| 米（Rice） | Wiki未記載 | 水中・Covered Ground必要 |
+| 亜麻（Flax） | Farm Soil: 7時間30分 / Fertilised Farm Soil: 3時間45分 | Seedling×10個生産 |
 
 #### ハーブ・茶葉類
 
@@ -202,7 +202,7 @@ Enshroudedの食べ物は8つのカテゴリに分類され、それぞれ異な
 | Rooibos（ルイボス） | 20〜35分 | ルイボスティー |
 | Saffron（サフラン） | 20〜35分 | 高級料理 |
 | Gentian（ジェンチアン） | 20〜35分 | マナ料理 |
-| Aloe（アロエ） | 情報収集中 | Seedling×10個生産。薬・軟膏 |
+| Aloe（アロエ） | Farm Soil: 30分 / Fertilised Farm Soil: 24分 / Sand: 45分 | Seedling×10個生産。薬・軟膏 |
 
 #### 樹木類
 

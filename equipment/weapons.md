@@ -31,7 +31,7 @@ Enshroudedの武器は**近接**・**遠距離**・**魔法**の3系統に分か
 
 - 高い物理ダメージと強靭なスタイルが特徴
 - 重撃（Heavy Attack）でのよろめかせ性能が高い
-- **Special Ability（Update 8）**: AOE系の広域攻撃（詳細情報収集中）
+- **Special Ability（Update 8）**: フォーカスゲージ満タン時に広域のAOE攻撃を発動。詳細なアニメーション・範囲の公式記述は未確認
 - 代表武器: Executioner's Axe、Champion's Axe、Blood Omen Axe、Abyssal Wing Axe、Boreal Axe
 - 推奨クラス: Warrior / Barbarian
 
@@ -47,7 +47,7 @@ Enshroudedの武器は**近接**・**遠距離**・**魔法**の3系統に分か
 
 - 鈍器ダメージ特化。敵のスタン・よろめかせが得意
 - 重装敵や骨格系エネミーに有効なBlunt（打撃）属性
-- **Special Ability（Update 8）**: 情報収集中
+- **Special Ability（Update 8）**: フォーカスゲージ満タン時に発動する強力な打撃攻撃。詳細な公式記述は未確認
 - 代表武器: Battering Ram Hammer、Chieftain's Hammer、Dreadbane、Blessed Club、Frost Smasher、Flail Of Misery
 - 推奨クラス: Tank / Warrior
 
@@ -67,7 +67,7 @@ Enshroudedの武器は**近接**・**遠距離**・**魔法**の3系統に分か
 
 - 両手持ちの大型魔法武器。高威力の魔法を放つ
 - 属性攻撃（Fire / Ice / Shock / Shroud）に特化した種類が多い
-- **Special Ability（Update 8）**: 大規模AOE魔法攻撃（詳細情報収集中）
+- **Special Ability（Update 8）**: **Update 8時点では未実装。** パッチノートに「スタッフの変更と改善は将来のアップデートで提供予定」と明記されている
 - 代表武器: Blackened Staff、Clearwater Staff、Crystalwater Staff、Elder's Staff、Deceiving Staff
 - 推奨クラス: Wizard / Battlemage / Healer
 
@@ -75,7 +75,7 @@ Enshroudedの武器は**近接**・**遠距離**・**魔法**の3系統に分か
 
 - 遠距離から高精度のダメージを与える
 - 属性矢（Fire/Poison/Ice等）との組み合わせが重要
-- **Special Ability（Update 8）**: 情報収集中
+- **Special Ability（Update 8）**: フォーカスゲージ満タン時に発動する遠距離特殊射撃。詳細な公式記述は未確認
 - 代表武器: Antler Bow、Arsonist's Bow、Composite Bow、Dragon's Wing、Forest Longbow、Draconian Bow
 - 推奨クラス: Archer / Hunter / Ranger
 
