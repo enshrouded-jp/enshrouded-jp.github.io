@@ -69,19 +69,22 @@
 | 種類 | 数・場所 |
 |------|---------|
 | エンシェントスパイア（Ancient Spire） | 1か所 |
-| エンシェントオベリスク（Ancient Obelisk） | 2か所 |
+| エンシェントオベリスク（Ancient Obelisk） | 2か所（"In These Windswept Summits"、"We Won't Share Our Breath With You"） |
 | エリクサーウェル（Elixir Well） | 3か所 |
 | ジェムフォージ（Gem Forge） | 3か所 |
 | フレームシュライン（Flame Shrine） | 8か所 |
 | ナイトサンクタム（Night Sanctum） | 5か所 |
 | 農場（Farm）| 8か所（ヤギ・パンプキン農場） |
-| 採石場・鉱山（Quarry/Mine） | 4か所 |
+| 採石場・鉱山（Quarry/Mine） | 4か所（Camellia Lake Mine、Fletcher Mine、Obsidian Mine等） |
 | シュラウドレア（Shroud Lair） | 2か所 |
 | シュラウドルート（Shroud Root） | 7か所 |
 | 集落（Settlement） | Wickmouth、Rothstep、Polaris Falls、New Cromville |
 
 ### 主要ダンジョン
-- **Hollow Halls（ホロウホールズ）**: このバイオーム最大の地下ダンジョン
+- **Albaneve Summits Hollow Halls**: このバイオーム最大の地下ダンジョン
+
+### ハウリングピーク（Howling Peak）
+エンバーヴェイル最高地点。腐敗した危険な生物が潜む最難関エリア。フェルドラゴンヤングリングが主要ボスとして巡回する。
 
 ## エクスクルーシブ装備
 

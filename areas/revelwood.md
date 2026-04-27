@@ -32,7 +32,7 @@
   - フェルスピッティングプラント（Fell Spitting Plant）: 遠距離毒液攻撃。シュラウドサック（Shroud Sack）をドロップ
   - フェルナイト（Fell Knight）: 重装甲の強力な近接敵
 - **ヴカ（Vukah）**: Blackmire沼地が本拠。槍投げ型・頭蓋骨仮面の重装甲型など複数の変異体が存在
-- **野生動物（Wildlife）**: フェイ鹿（Fae Deer、懐柔可能）、キノコクラブ（Mushroom Crab、敵対）、イノシシ、スピッティングプラント、コウモリ、スパイダー、スナップジョウ、ジャイアントワスプ、ウィスプ
+- **野生動物（Wildlife）**: フェイ鹿（Fae Deer、懐柔可能）、キノコクラブ（Mushroom Crab、刺激すると激しく戦闘）、イノシシ、スピッティングプラント、コウモリ、スパイダー、スナップジョウ（Snapjaw）、ジャイアントワスプ（Giant Wasp）、ウィスプ（Wisp）
 - **ホロウ（Hollow）**: レアな出現。Hidden Hollow Tombと廃墟の一部に生息
 
 ## 採集できる主要素材
@@ -40,6 +40,7 @@
 ### 植物・フィールド素材
 - 硬木（Hardwood）、木材（Wood Logs）
 - 亜麻（Flax）、ヘーゼルナッツ（Hazelnut）、カモミール（Chamomile）、刺草（Stinging Nettle）
+- インディゴプラント（Indigo Plant）、ストロベリー（Strawberry）、紫ベリー（Purple Berries）
 - アジュールルスラ（Azure Russula）きのこ、シュラウドマッシュルーム（Shroud Mushroom）
 - フォレストビート（Forest Beet）、グルームベリー（Gloomberry）※夜間のみ
 - ハチミツ（Honey）、植物繊維（Plant Fiber）、ワックス（Wax）
@@ -61,12 +62,16 @@
 
 | 種類 | 数・場所 |
 |------|---------|
-| エンシェントスパイア（Ancient Spire） | 複数（Revelwood、Blackmireそれぞれに存在） |
+| エンシェントスパイア（Ancient Spire） | 2か所（Revelwood・Blackmire各1） |
 | エンシェントヴォルト（Ancient Vault） | Sunken Ancient City（沈んだ古代都市） |
 | エンシェントオベリスク（Ancient Obelisk） | 3か所 |
-| エリクサーウェル（Elixir Well） | 複数 |
-| フレームシュライン（Flame Shrine） | 12か所 |
-| ナイトサンクタム（Night Sanctum） | 5か所（Elder's Night Sanctum等） |
+| エリクサーウェル（Elixir Well） | 3か所 |
+| ジェムフォージ（Gem Forge） | 3か所 |
+| フレームシュライン（Flame Shrine）/ サンクタム | 11か所 |
+| ナイトサンクタム（Night Sanctum） | 5か所 |
+| シュラウドレア（Shroud Lair） | 3か所 |
+| シュラウドルート（Shroud Root） | 8か所 |
+| 集落・定住地（Settlement） | 13か所 |
 
 ### 主要ダンジョン
 - **Sunken Ancient City（サンクンエンシェントシティ）**: Ancient Vaultを含む廃都

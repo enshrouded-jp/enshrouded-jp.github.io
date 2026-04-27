@@ -65,7 +65,7 @@ Update 8で追加された爬虫類系の人型敵勢力。Veilwater Basin全域
 | Drak Warrior（ドラク・ウォリアー） | 近接戦士 | 黒曜石槍（Obsidian Spear） | ① **跳躍突撃**: 空中から槍で飛びかかり重貫通ダメージ ② **槍の薙ぎ払い**: 3段コンボで広範囲斬撃 |
 | Drak Skirmisher（ドラク・スカーミッシャー） | 遠距離戦士 | チャクラム（Chakram）二刀 | ① **Chakram Snipe**: 遠距離から2枚投げ ② **Retreating Barrage**: 接近されると後退しながら3枚同時投擲 |
 | Drak Priest（ドラク・プリースト） | 魔法使い | 部族スタッフ（Tribal Staff） | ① **Water Field Orb**: 水球を召喚しフィールドダメージ+追尾後爆発 ② **Water Balloon**: 高速水球が突進し接触で大ダメージ |
-| Drak Chieftain（ドラク・チーフテン） | 指導者（ボス） | 情報収集中 | 情報収集中 |
+| Drak Chieftain（ドラク・チーフテン） | 指導者（ボス） | Wikiページ未公開（Update 8追加ボス、情報追記予定） | Wikiページ未公開（Update 8追加ボス、情報追記予定） |
 
 ### Drakのドロップアイテム
 

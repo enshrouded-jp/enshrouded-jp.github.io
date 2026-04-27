@@ -26,7 +26,10 @@
 - **スカベンジャー（Scavengers）**: 複数の定住地に分散。スマグラーキャンプ（Smuggler Camp）も含む
 - **フェル（Fell）**: シュラウド内エリアに多数出現
 - **ホロウ（Hollow）**: 北西部の墓地（Graveyard）とカタコンブに出現
-- **固有野生動物**: サーベルトゥースタイガー（Sabertooth Tiger）、ハイランズロードランナー（Highlands Roadrunner）、フェルマッシュルームクラブ（Fell Mushroom Crab）
+- **固有野生動物**:
+  - サーベルトゥースタイガー（Sabertooth Tiger）: 敵対的。高機動の大型肉食獣
+  - ハイランズロードランナー（Highlands Roadrunner）: 平和的な固有生物
+  - フェルマッシュルームクラブ（Fell Mushroom Crab）: 敵対的。シュラウド変異したキノコガニ
 
 ## 採集できる主要素材
 

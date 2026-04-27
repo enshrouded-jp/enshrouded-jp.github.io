@@ -60,12 +60,17 @@
 
 | 種類 | 数・場所 |
 |------|---------|
-| エンシェントスパイア（Ancient Spire） | 1か所（Kindlewastes） |
+| エンシェントスパイア（Ancient Spire） | 1か所 |
+| エンシェントオベリスク（Ancient Obelisk） | 2か所 |
+| エリクサーウェル（Elixir Well） | 4か所 |
 | サンテンプル（Sun Temple） | 5か所（Haunted、Northwest、East、Southeast、Southwest） |
-| フレームシュライン（Flame Shrine） / エリクサーウェル | 複数 |
+| フレームシュライン（Flame Shrine） | 4か所以上 |
 | ナイトサンクタム（Night Sanctum） | 複数 |
+| 農場（Farm） | 2か所 |
 | 鉱山（Mine） | Ternion Mine、Ridgeback Mine |
 | ホロウホールズ（Hollow Halls） | Kindlewastes Hollow Halls |
+| シュラウドルート（Shroud Root） | 6か所 |
+| 集落・定住地（Settlement） | 8か所 |
 
 ### 主要集落・定住地
 - Brittlebush（ブリトルブッシュ）
@@ -75,6 +80,26 @@
 - Sapphire Strand（サファイアストランド）
 - Shorewatch（ショアウォッチ）
 - Low Tide（ロウタイド）
+
+## エクスクルーシブ装備
+
+### 防具セット（北部 レベル20〜25）
+- Gloom Monarch Set（グルームモナーク・セット）
+- Hawk Set（ホークセット）
+- Spellbinder Set（スペルバインダーセット）
+
+### 防具セット（南部 レベル25〜30）
+- Radiant Paladin Set（ラディアントパラディンセット）
+- Eagle Eye Set（イーグルアイセット）
+- Elder Set（エルダーセット）
+
+### 防具セット（Kindlewastes Hollow Halls）
+- Elite Hollow Set（エリートホロウセット）
+
+### コレクション（化石）
+- Crab Fossil（カニの化石）
+- Fish Fossil（魚の化石）
+- Prawn Fossil（エビの化石）
 
 ## 攻略のコツ・注意点
 

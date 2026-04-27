@@ -37,9 +37,10 @@
 
 - **フェル（Fell）**: シュラウドに蝕まれた人間・動物の変異体。シュラウド内で多数出現し、シュラウドスポア（Shroud Spores）や引き裂かれた布（Torn Cloth）を落とす
 - **スカベンジャー（Scavengers）**: エリクサーに汚染された生存者。廃墟に潜む武装集団。金属スクラップ（Metal Scraps）をドロップ
-- **ヴカ（Vukah）**: 古代の獣人族。Fort Kelvin周辺に生息。動物の毛皮（Animal Fur）と樹脂（Resin）を落とす
-- **ホロウ（Hollow）**: 炎に呪われた不死の存在。墓地・地下墓地に出現。骨（Bones）と塩（Salt）をドロップ
-- **野生動物（Wildlife）**: ウルフ（敵対）、ネズミ、クモ、コウモリ。ホップヘア・ヤギは懐柔可能
+- **ヴカ（Vukah）**: 古代の獣人族。Fort Kelvin・Vukah Ceremony Hill周辺に生息。動物の毛皮（Animal Fur）と樹脂（Resin）を落とす
+- **ホロウ（Hollow）**: 炎に呪われた不死の存在。墓地・地下墓地・Springlands Hollow Hallsに出現。骨（Bones）と塩（Salt）をドロップ
+- **野生動物（Wildlife）**: ウルフ（敵対、Wolf Meat・Animal Furドロップ）、ネズミ、クモ（Spider Gland）、コウモリ。ホップヘア（Hophare）・ヤギ（Common Goat）は懐柔可能
+- **強敵ドロップ**: フェルサンダーブルート頭部（Fell Thunderbrute Head）、スカベンジャーマトロンヘルメット（Scavenger Matron Helmet）、シュラウドコア（Shroud Core）はレアドロップ
 
 ## 採集できる主要素材
 
@@ -59,6 +60,13 @@
 - シュラウドウッド（Shroud Wood）、シュラウドリキッド（Shroud Liquid）
 - フレッシュシュラウドスポア（Fresh Shroud Spore）※夜間のみ
 
+### 釣り（Fishing）
+川・湖での釣りで入手可能なアイテム：
+- 回復系: Bandage、Health Potion、Mana Potion
+- 素材: Lockpick、各種Gems
+- 装備: 各種 Lesser Ring 類
+- 特殊: Shroud Survival Flask
+
 ## 主要POI（Points of Interest）
 
 | 種類 | 数・場所 |
@@ -68,11 +76,14 @@
 | エンシェントオベリスク（Ancient Obelisk） | 2か所 |
 | エリクサーウェル（Elixir Well） | 3か所 |
 | ジェムフォージ（Gem Forge） | 3か所 |
-| フレームシュライン（Flame Shrine）/ サンクタム | 13か所以上 |
+| フレームシュライン（Flame Shrine）/ サンクタム | 13か所 |
 | ナイトサンクタム（Night Sanctum） | 5か所 |
+| ホロウホールズ（Hollow Halls） | 1か所（Springlands Hollow Halls） |
+| シュラウドレア（Shroud Lair） | 2か所 |
+| シュラウドルート（Shroud Root） | 6か所 |
 | 農場（Farm） | 4か所 |
 | 鉱山（Mine） | 3か所 |
-| 集落・定住地（Settlement） | 15か所以上 |
+| 集落・定住地（Settlement） | 14か所 |
 
 ### 主要ダンジョン
 - **Hidden Tomb（ヒドゥントゥーム）**: 隠し地下墓地
